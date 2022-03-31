@@ -1,6 +1,5 @@
 project: dbargatz/rust-url
 target: punycode-encode
-image: ghcr.io/dbargatz/rust-url:master
 advanced_triage: false
 tasks:
   - name: exploitability_factors
